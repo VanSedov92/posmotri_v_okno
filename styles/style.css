@@ -16,6 +16,7 @@ html {
   font-family: 'Fira Sans Condensed', sans-serif;
   font-size: 18px;
   background-color: #1b1919;
+  display: flex;
 }
 
 h1,
@@ -42,7 +43,7 @@ ol {
   align-items: end;
   gap: 30px;
   max-width: 1140px;
-  margin: 133px auto;
+  margin: auto;
 }
 
 .result__video-container {
